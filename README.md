@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Salu2 👋🧑🏻‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-pablo-chandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-chandi/)](https://www.linkedin.com/in/pablo-chandi/)
-[![Gmail Badge](https://img.shields.io/badge/-pachandic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pachandic@gmail.com)](mailto:pachandic@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-chandi/)](https://www.linkedin.com/in/pablo-chandi/)
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pachandic@gmail.com)](mailto:pachandic@gmail.com)
 <!---
 [![Telegram Badge](https://img.shields.io/badge/-@[id..]?style=flat&logo=Telegram&logoColor=white)](https://t.me/[id] "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-pabblo17-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pabblo17/)](https://instagram.com/pabblo17)
