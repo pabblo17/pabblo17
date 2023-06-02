@@ -27,20 +27,3 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabblo17&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
-                </a>
-            </th>
-            <th>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabblo17&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
