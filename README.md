@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Instagram Badge](https://img.shields.io/badge/-pabblo17-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pabblo17/)](https://instagram.com/pabblo17)
 --->
 - 👋 Hi, I’m @pabblo17
-- - 🏢  I’m currently working as SSr Software Engineer buk
+- 🏢 I’m currently working as SSr Software Engineer buk
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
