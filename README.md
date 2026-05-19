@@ -3,27 +3,86 @@ pabblo17/pabblo17 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Salu2 👋🧑🏻‍💻
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-chandi/)](https://www.linkedin.com/in/pablo-chandi/)
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pachandic@gmail.com)](mailto:pachandic@gmail.com)
-<!---
-[![Telegram Badge](https://img.shields.io/badge/-@[id..]?style=flat&logo=Telegram&logoColor=white)](https://t.me/[id] "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-pabblo17-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pabblo17/)](https://instagram.com/pabblo17)
---->
-- 👋 Hi, I’m @pabblo17
-- 🏢 I’m currently working as SSr Software Engineer buk
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pablo%20Chandí&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Assisted%20Dev&descAlignY=55&descSize=18)
 
-## ⚡ Technologies
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Engineer;NestJS+%26+TypeScript+Backend;Kubernetes+%26+Cloud+Infrastructure;AI+Agents+%7C+Claude+Code+%7C+MCP)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-chandi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachandic@gmail.com)
+
+</div>
+
+---
+
+Backend Engineer con 7+ años construyendo plataformas SaaS multi-tenant y sistemas distribuidos en LATAM. Me especializo en APIs escalables, infraestructura cloud y decisiones de arquitectura orientadas al negocio. Uso agentes de IA como parte real de mi flujo de trabajo, no como tendencia.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,ts,nodejs,go&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,git,github,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**AI Workflow**
+
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=codeium&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pabblo17&theme=onedark&no-frame=true&row=1&column=6)
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=pabblo17&theme=onedark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pabblo17&theme=github-compact&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabblo17&theme=github_dark)
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=pabblo17&color=6DB33F&style=flat-square)
+
+</div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
