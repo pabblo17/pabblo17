@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pablo%20Chandí&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Assisted%20Dev&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pablo%20Chandi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Assisted%20Dev&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Engineer;NestJS+%26+TypeScript+Backend;Kubernetes+%26+Cloud+Infrastructure;AI+Agents+%7C+Claude+Code+%7C+MCP)](https://git.io/typing-svg)
 
